@@ -1,62 +1,38 @@
 # Hi 👋, I'm Vaidika
 
-I'm a **BCA graduate** interested in programming, Data Science, AI and Machine Learning.
+🎓 BCA Graduate from Gujarat, India
 
-I use GitHub to share the projects I build, the things I learn, and the programming problems I practice.
+I'm interested in programming, web development, Data Science, Artificial Intelligence, and Machine Learning. I enjoy learning new technologies and building small projects to improve my coding skills.
 
-## About Me
+## 🛠️ Skills
 
-* 🎓 BCA Graduate
-* 🐍 Learning and practicing Python
-* 📊 Interested in Data Science
-* 🤖 Exploring AI & Machine Learning
-* 💻 Improving my programming and problem-solving skills
-* 🚀 Building projects to gain practical experience
+* **Programming:** Python, Java
+* **Web Development:** HTML, CSS, JavaScript
+* **Database:** SQL
+* **Tools:** Git, GitHub
+* **Currently Learning:** Python OOP, Data Analysis, AI & ML
 
-## Skills
+## 💻 My Projects
 
-* Python
-* HTML
-* CSS
-* Java
-* SQL
-* Git & GitHub
+* **All Logic Box** — A collection of programming logic and practice problems.
+* **Python Practice** — Python programs and daily coding practice.
+* **Interactive Personal Data Collector** — A Python project for collecting and managing personal information.
+* **OOP Wrapper / Employee Management** — A Python project demonstrating classes, inheritance, encapsulation, and method overriding.
+* **Restaurant Management System** — An OOP-based Python project for menu management, orders, and bill generation.
+* **Bookstore Inventory & Data Analysis System** — A Python OOP project for managing book inventory and analyzing data.
 
-## Projects
+## 📚 Learning Goals
 
-### 🧠 All Logic Box
+* Improve my Python programming skills.
+* Practice Object-Oriented Programming.
+* Build useful projects and improve problem-solving.
+* Learn more about Data Science, AI, and Machine Learning.
 
-A collection of Python programs that I created while practicing programming logic.
+## 🤝 Connect With Me
 
-It includes different types of problems related to:
-
-* Conditions
-* Loops
-* Strings
-* Numbers
-* Patterns
-* Lists
-* Functions
-* Logical operators
-* Problem solving
-
-### 🐍 Python Practice
-
-A collection of Python programs and exercises that I work on while learning and improving my coding skills.
-
-### 📋 Interactive Personal Data Collector
-
-A beginner Python project that takes information from the user and demonstrates variables, data types, type conversion, and basic calculations.
-
-## Currently Learning
-
-I'm currently focusing on **Python, Data Science, AI and Machine Learning** and trying to improve my skills by practicing and building projects.
-
-## Connect With Me
-
-* LinkedIn: : www.linkedin.com/in/vaidika-ghoghari-2196a534a
-* Email: ghogharivaidika@gmail.com
+* **LinkedIn:** [Vaidika Ghoghari](https://www.linkedin.com/in/vaidika-ghoghari-2196a534a)
+* **Email:** [ghogharivaidika@gmail.com](mailto:ghogharivaidika@gmail.com)
 
 ---
 
-Thanks for visiting my profile! 🙂
+⭐ Thanks for visiting my profile! I'm learning, practicing, and improving one project at a time.
