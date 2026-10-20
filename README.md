@@ -1,38 +1,39 @@
-# Hi 👋, I'm Vaidika
+# Hi 👋, I'm Vaidika Ghoghari
 
-🎓 BCA Graduate from Gujarat, India
+🎓 **BCA Graduate | Python Developer | Aspiring Data Science & AI/ML Professional**
 
-I'm interested in programming, web development, Data Science, Artificial Intelligence, and Machine Learning. I enjoy learning new technologies and building small projects to improve my coding skills.
+I'm a BCA graduate from Gujarat, India, interested in software development, web technologies, and data-driven applications. I enjoy solving programming problems and turning concepts into practical projects.
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-* **Programming:** Python, Java
-* **Web Development:** HTML, CSS, JavaScript
-* **Database:** SQL
-* **Tools:** Git, GitHub
-* **Currently Learning:** Python OOP, Data Analysis, AI & ML
+- **Languages:** Python, Java
+- **Web Development:** HTML, CSS, JavaScript
+- **Database:** SQL
+- **Python Concepts:** OOP, Data Structures, File Handling, Exception Handling
+- **Tools:** Python IDLE, Visual Studio Code, Git, GitHub
+- **Areas of Interest:** Data Analysis, Data Science, Artificial Intelligence, Machine Learning
 
-## 💻 My Projects
+## 💻 Projects
 
-* **All Logic Box** — A collection of programming logic and practice problems.
-* **Python Practice** — Python programs and daily coding practice.
-* **Interactive Personal Data Collector** — A Python project for collecting and managing personal information.
-* **OOP Wrapper / Employee Management** — A Python project demonstrating classes, inheritance, encapsulation, and method overriding.
-* **Restaurant Management System** — An OOP-based Python project for menu management, orders, and bill generation.
-* **Bookstore Inventory & Data Analysis System** — A Python OOP project for managing book inventory and analyzing data.
+- **All Logic Box** — Programming logic exercises and problem-solving solutions.
+- **Python Practice** — Python programs covering fundamental concepts and coding exercises.
+- **Interactive Personal Data Collector** — A Python application for collecting and managing personal information.
+- **OOP Wrapper / Employee Management** — Demonstrates encapsulation, inheritance, and method overriding.
+- **Restaurant Management System** — A Python OOP application for menu management, customer orders, and billing.
 
-## 📚 Learning Goals
+## 🎯 Current Goals
 
-* Improve my Python programming skills.
-* Practice Object-Oriented Programming.
-* Build useful projects and improve problem-solving.
-* Learn more about Data Science, AI, and Machine Learning.
+- Develop stronger programming and analytical skills.
+- Build practical applications using Python and OOP.
+- Explore data analysis and machine learning techniques.
+- Expand my knowledge of software development.
 
 ## 🤝 Connect With Me
 
-* **LinkedIn:** [Vaidika Ghoghari](https://www.linkedin.com/in/vaidika-ghoghari-2196a534a)
-* **Email:** [ghogharivaidika@gmail.com](mailto:ghogharivaidika@gmail.com)
+- **LinkedIn:** [Vaidika Ghoghari](https://www.linkedin.com/in/vaidika-ghoghari-2196a534a)
+- **Email:** [ghogharivaidika@gmail.com](mailto:ghogharivaidika@gmail.com)
+- **GitHub:** [vaidika-ghoghari](https://github.com/vaidika-ghoghari)
 
 ---
 
-⭐ Thanks for visiting my profile! I'm learning, practicing, and improving one project at a time.
+⭐ Thanks for visiting my profile!
